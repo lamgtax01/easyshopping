@@ -8,16 +8,16 @@ export const Footer = () => {
                 </span>
                 <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
                     <li>
-                        <a href="#" className="hover:underline me-4 md:me-6">About</a>
+                        <span className="hover:underline me-4 md:me-6">About</span>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline me-4 md:me-6">Privacy Policy</a>
+                        <span className="hover:underline me-4 md:me-6">Privacy Policy</span>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline me-4 md:me-6">Licensing</a>
+                        <span className="hover:underline me-4 md:me-6">Licensing</span>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline">Contact</a>
+                        <span className="hover:underline">Contact</span>
                     </li>
                 </ul>
             </div>
